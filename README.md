@@ -2,7 +2,7 @@
 Um simples código para receber argumentos no cli e Se conectar via TCpStream 
 
 
-Depois de compilar use no terminal.
+Depois de compilar use no terminal. 
 
 passe dois argumentos 
 
